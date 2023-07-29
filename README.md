@@ -25,3 +25,6 @@ You may also see any lint errors in the console.
 ### `create a component`
 
 Created a component named Navbar.
+
+### `Time taken to create this project`
+It takes 2 days to create this project, one day in designing and one in styling, total of 8hours.
